@@ -1,0 +1,9 @@
+<application>
+  <component name="LeiningenRunnerSettings">
+    <option name="leiningenPath" value="/usr/local/bin/lein" />
+    <option name="leiningenHome" value="$USER_HOME$/.lein" />
+    <option name="leiningenJar" value="leiningen-standalone.jar" />
+    <option name="downloadSources" value="true" />
+    <option name="downloadJavadoc" value="true" />
+  </component>
+</application>
