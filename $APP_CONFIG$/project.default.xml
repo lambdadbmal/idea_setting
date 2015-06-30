@@ -24,6 +24,7 @@
           <map>
             <entry key="$USER_HOME$/job/ZDC/naviplat_proc/naviplat_proc" value="2841445032000" />
             <entry key="$USER_HOME$/job/ZDC/tivap_2015/traffic_info_deliverer" value="1428449143000" />
+            <entry key="$USER_HOME$/job/ZDC/tivap_2015/traffic_info_delivery_service" value="1435624325000" />
           </map>
         </option>
       </component>
@@ -103,10 +104,10 @@
           <method />
         </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
+          <module />
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-          <module />
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
