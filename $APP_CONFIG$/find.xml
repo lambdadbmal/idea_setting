@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '/Users/seisyu/job/ZDC/tivap_2015/traffic_info_deliverer/src/main/java/net/zenrin_datacom/tivap/traffic_info_deliverer/api/TrafficInfo.java'" />
     <option name="defaultScopeName" value="File '/Users/seisyu/job/ZDC/tivap_2015/traffic_info_deliverer/src/main/java/net/zenrin_datacom/tivap/traffic_info_deliverer/api/TrafficInfo.java'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/seisyu/job/ZDC/tivap_2015/traffic_info_deliverer/src/main/java/net/zenrin_datacom/tivap/traffic_info_deliverer/api/TrafficInfo.java'" />
   </component>
 </application>
