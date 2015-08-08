@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'traffic_info_delivery_service'" />
     <option name="defaultScopeName" value="Project 'traffic_info_delivery_service'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'traffic_info_delivery_service'" />
   </component>
 </application>
