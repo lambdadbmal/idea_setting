@@ -29,6 +29,10 @@
           </map>
         </option>
       </component>
+      <component name="JsBowerSettings">
+        <exe-path>$USER_HOME$/.nodebrew/current/bin/bower</exe-path>
+        <config-path />
+      </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
@@ -47,23 +51,66 @@
                 <id />
               </State>
               <State>
+                <id>Abstraction issuesJava</id>
+              </State>
+              <State>
                 <id>Android</id>
               </State>
               <State>
                 <id>Android Lint</id>
               </State>
               <State>
-                <id>Gems</id>
+                <id>CSS</id>
               </State>
               <State>
-                <id>Java language level migration aids</id>
+                <id>Class metricsJava</id>
+              </State>
+              <State>
+                <id>Code style issuesJava</id>
+              </State>
+              <State>
+                <id>Declaration redundancyJava</id>
+              </State>
+              <State>
+                <id>Error handlingJava</id>
+              </State>
+              <State>
+                <id>GeneralJavaScript</id>
+              </State>
+              <State>
+                <id>Google Web Toolkit issues</id>
+              </State>
+              <State>
+                <id>Groovy</id>
+              </State>
+              <State>
+                <id>JSP Inspections</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>Method MetricsGroovy</id>
+              </State>
+              <State>
+                <id>Method metricsJava</id>
+              </State>
+              <State>
+                <id>Naming ConventionsGroovy</id>
+              </State>
+              <State>
+                <id>Naming conventionsJava</id>
+              </State>
+              <State>
+                <id>OSGi</id>
+              </State>
+              <State>
+                <id>Security issuesJava</id>
               </State>
             </expanded-state>
-            <selected-state>
-              <State>
-                <id>Abstraction issues</id>
-              </State>
-            </selected-state>
           </profile-state>
         </entry>
       </component>
@@ -95,7 +142,8 @@
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.0" />
         <property name="project.structure.side.proportion" value="0.0" />
-        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+        <property name="settings.editor.selected.configurable" value="terminal" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -105,10 +153,10 @@
           <method />
         </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
-          <module />
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
