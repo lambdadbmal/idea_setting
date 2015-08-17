@@ -22,6 +22,7 @@
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
+            <entry key="$USER_HOME$/hack/sinatra_example" value="1439779275000" />
             <entry key="$USER_HOME$/job/ZDC/naviplat_proc/naviplat_proc" value="2841445032000" />
             <entry key="$USER_HOME$/job/ZDC/tivap_2015/conv_TomTomOpenLr" value="1437893764000" />
             <entry key="$USER_HOME$/job/ZDC/tivap_2015/traffic_info_deliverer" value="1428449143000" />
@@ -153,10 +154,10 @@
           <method />
         </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
+          <module />
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-          <module />
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
