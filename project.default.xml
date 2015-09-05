@@ -27,6 +27,7 @@
             <entry key="$USER_HOME$/job/ZDC/naviplat_proc/naviplat_proc" value="2841445032000" />
             <entry key="$USER_HOME$/job/ZDC/tivap_2015/conv_TomTomOpenLr" value="1437893764000" />
             <entry key="$USER_HOME$/job/ZDC/tivap_2015/redis_checker" value="2882825020000" />
+            <entry key="$USER_HOME$/job/ZDC/tivap_2015/tivap_redis_checker" value="2882830980000" />
             <entry key="$USER_HOME$/job/ZDC/tivap_2015/traffic_info_deliverer" value="1428449143000" />
             <entry key="$USER_HOME$/job/ZDC/tivap_2015/traffic_info_delivery_service" value="1435624325000" />
           </map>
