@@ -117,6 +117,19 @@
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/bundler-1.10.6/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.10.6, rbenv: jruby-9.0.1.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/bundler-1.10.6/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/bundler-1.10.6/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/bundler-1.10.6/man" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/bundler-1.10.6/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/bundler-1.10.6/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/bundler-1.10.6/man" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.9.4, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/bundler-1.9.4/bin" />
@@ -544,6 +557,21 @@
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/lib" />
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/build" />
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/resources" />
+      </SOURCES>
+    </library>
+    <library name="jruby-launcher (v1.1.1, rbenv: jruby-9.0.1.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/inc" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/build" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/resources" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/inc" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/build" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/resources" />
       </SOURCES>
     </library>
     <library name="jruby-rack (v1.1.19, rbenv: jruby-9.0.0.0) [gem]">
