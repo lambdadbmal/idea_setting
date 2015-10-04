@@ -979,6 +979,19 @@
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/rake-10.4.2/rakelib" />
       </SOURCES>
     </library>
+    <library name="rake (v10.4.2, rbenv: jruby-9.0.1.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/rake-10.4.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/rake-10.4.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/rake-10.4.2/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/rake-10.4.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/rake-10.4.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/rake-10.4.2/rakelib" />
+      </SOURCES>
+    </library>
     <library name="rawr (v1.8.3, rbenv: jruby-9.0.0.0) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/rawr-1.8.3/bin" />
