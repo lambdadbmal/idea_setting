@@ -1042,6 +1042,19 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
       </SOURCES>
     </library>
+    <library name="rbenv: jruby-9.0.3.0 facet library">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rbenv/versions/jruby-9.0.3.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rbenv/versions/jruby-9.0.3.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+      </SOURCES>
+    </library>
     <library name="rdoc (v4.2.0, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/2.2.0/io" />
