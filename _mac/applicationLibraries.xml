@@ -130,6 +130,19 @@
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/bundler-1.10.6/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.10.6, rbenv: jruby-9.0.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/bundler-1.10.6/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/bundler-1.10.6/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/bundler-1.10.6/man" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/bundler-1.10.6/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/bundler-1.10.6/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/bundler-1.10.6/man" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.9.4, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/bundler-1.9.4/bin" />
@@ -196,6 +209,17 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/coderay-1.1.0/bin" />
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/coderay-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="coderay (v1.1.0, rbenv: jruby-9.0.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/coderay-1.1.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/coderay-1.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/coderay-1.1.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/coderay-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="compass (v1.0.3, rbenv: 2.2.2) [gem]">
@@ -342,6 +366,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/ffi-1.9.10-java" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.10, rbenv: jruby-9.0.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/ffi-1.9.10-java" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/ffi-1.9.10-java" />
       </SOURCES>
     </library>
     <library name="haml (v3.0.25, rbenv: jruby-9.0.0.0) [gem]">
@@ -574,6 +607,21 @@
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/resources" />
       </SOURCES>
     </library>
+    <library name="jruby-launcher (v1.1.1, rbenv: jruby-9.0.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/inc" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/build" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/resources" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/inc" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/build" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/resources" />
+      </SOURCES>
+    </library>
     <library name="jruby-rack (v1.1.19, rbenv: jruby-9.0.0.0) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/jruby-rack-1.1.19/lib" />
@@ -713,6 +761,15 @@
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/method_source-0.8.2/lib" />
       </SOURCES>
     </library>
+    <library name="method_source (v0.8.2, rbenv: jruby-9.0.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/method_source-0.8.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v2.6.1, rbenv: jruby-9.0.0.0) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/mime-types-2.6.1/lib" />
@@ -822,6 +879,17 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/pry-0.10.1-java/bin" />
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/pry-0.10.1-java/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.10.3, rbenv: jruby-9.0.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/pry-0.10.3-java/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/pry-0.10.3-java/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/pry-0.10.3-java/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/pry-0.10.3-java/lib" />
       </SOURCES>
     </library>
     <library name="psych (v2.0.8, rbenv: 2.2.3) [gem]">
@@ -990,6 +1058,19 @@
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/rake-10.4.2/bin" />
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/rake-10.4.2/lib" />
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.1.0/lib/ruby/gems/shared/gems/rake-10.4.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.4.2, rbenv: jruby-9.0.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/rake-10.4.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/rake-10.4.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/rake-10.4.2/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/rake-10.4.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/rake-10.4.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/rake-10.4.2/rakelib" />
       </SOURCES>
     </library>
     <library name="rawr (v1.8.3, rbenv: jruby-9.0.0.0) [gem]">
@@ -1369,6 +1450,15 @@
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/slop-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="slop (v3.6.0, rbenv: jruby-9.0.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/slop-3.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/slop-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="spoon (v0.0.4, rbenv: jruby-9.0.0.0) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/spoon-0.0.4/lib" />
@@ -1376,6 +1466,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.0.0/lib/ruby/gems/shared/gems/spoon-0.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="spoon (v0.0.4, rbenv: jruby-9.0.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/spoon-0.0.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/jruby-9.0.3.0/lib/ruby/gems/shared/gems/spoon-0.0.4/lib" />
       </SOURCES>
     </library>
     <library name="term-ansicolor (v1.3.2, rbenv: jruby-9.0.0.0) [gem]">
