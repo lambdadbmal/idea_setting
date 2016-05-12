@@ -13,13 +13,6 @@
         <option name="FOREGROUND" value="cdcd00" />
       </value>
     </option>
-    <option name="DEFAULT_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="80" />
-        <option name="BACKGROUND" value="ffffff" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="DIFF_DELETED">
       <value>
         <option name="BACKGROUND" value="d6d6d6" />

@@ -22,10 +22,21 @@
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
+            <entry key="$USER_HOME$/hack/jruby_from_java" value="2892562757000" />
+            <entry key="$USER_HOME$/hack/sinatra_example" value="1439779275000" />
+            <entry key="$USER_HOME$/job/ZDC/201509-11_shizumichi_info/cmdn_auto_bindata" value="2881087386000" />
             <entry key="$USER_HOME$/job/ZDC/naviplat_proc/naviplat_proc" value="2841445032000" />
+            <entry key="$USER_HOME$/job/ZDC/tivap_2015/conv_TomTomOpenLr" value="1437893764000" />
+            <entry key="$USER_HOME$/job/ZDC/tivap_2015/redis_checker" value="2882825020000" />
+            <entry key="$USER_HOME$/job/ZDC/tivap_2015/tivap_redis_checker" value="2882830980000" />
             <entry key="$USER_HOME$/job/ZDC/tivap_2015/traffic_info_deliverer" value="1428449143000" />
+            <entry key="$USER_HOME$/job/ZDC/tivap_2015/traffic_info_delivery_service" value="1435624325000" />
           </map>
         </option>
+      </component>
+      <component name="JsBowerSettings">
+        <exe-path>$USER_HOME$/.nodebrew/current/bin/bower</exe-path>
+        <config-path />
       </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
@@ -45,23 +56,66 @@
                 <id />
               </State>
               <State>
+                <id>Abstraction issuesJava</id>
+              </State>
+              <State>
                 <id>Android</id>
               </State>
               <State>
                 <id>Android Lint</id>
               </State>
               <State>
-                <id>Gems</id>
+                <id>CSS</id>
               </State>
               <State>
-                <id>Java language level migration aids</id>
+                <id>Class metricsJava</id>
+              </State>
+              <State>
+                <id>Code style issuesJava</id>
+              </State>
+              <State>
+                <id>Declaration redundancyJava</id>
+              </State>
+              <State>
+                <id>Error handlingJava</id>
+              </State>
+              <State>
+                <id>GeneralJavaScript</id>
+              </State>
+              <State>
+                <id>Google Web Toolkit issues</id>
+              </State>
+              <State>
+                <id>Groovy</id>
+              </State>
+              <State>
+                <id>JSP Inspections</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>Method MetricsGroovy</id>
+              </State>
+              <State>
+                <id>Method metricsJava</id>
+              </State>
+              <State>
+                <id>Naming ConventionsGroovy</id>
+              </State>
+              <State>
+                <id>Naming conventionsJava</id>
+              </State>
+              <State>
+                <id>OSGi</id>
+              </State>
+              <State>
+                <id>Security issuesJava</id>
               </State>
             </expanded-state>
-            <selected-state>
-              <State>
-                <id>Abstraction issues</id>
-              </State>
-            </selected-state>
           </profile-state>
         </entry>
       </component>
@@ -93,7 +147,8 @@
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.0" />
         <property name="project.structure.side.proportion" value="0.0" />
-        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+        <property name="settings.editor.selected.configurable" value="terminal" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">

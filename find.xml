@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/seisyu/job/ZDC/tivap_2015/traffic_info_deliverer/src/main/java/net/zenrin_datacom/tivap/traffic_info_deliverer/api/TrafficInfo.java'" />
-    <option name="defaultScopeName" value="File '/Users/seisyu/job/ZDC/tivap_2015/traffic_info_deliverer/src/main/java/net/zenrin_datacom/tivap/traffic_info_deliverer/api/TrafficInfo.java'" />
-    <option name="SEARCH_SCOPE" value="File '/Users/seisyu/job/ZDC/tivap_2015/traffic_info_deliverer/src/main/java/net/zenrin_datacom/tivap/traffic_info_deliverer/api/TrafficInfo.java'" />
+    <option name="customScope" value="Project 'traffic_info_delivery_service'" />
+    <option name="defaultScopeName" value="Project 'traffic_info_delivery_service'" />
+    <option name="SEARCH_SCOPE" value="Project 'traffic_info_delivery_service'" />
   </component>
 </application>
